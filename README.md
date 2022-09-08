@@ -1,13 +1,6 @@
 # curriculo
 Guilherme Macário
 
-Brasileiro, solteiro, 29 anos
-Rua Nivaldo Medeiros Vanni 45
-Bairro Jardim do Sol
-Lins SP
-Celular: (14) 99648-7912 / E-mail: guimacario8@gmail.com
-
-
 FORMAÇÃO
 •	Ensino Fundamental Completo. Prof. Elzira Garbino Pagani | 2000 – 2007.
 •	Ensino Médio Completo. Prof. Elzira Garbino Pagani | 2008 – 2010.
